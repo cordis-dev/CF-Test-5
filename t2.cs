@@ -1,6 +1,6 @@
-    public class t1
+    public class t2
     {
-        public void M2()
+        public void M1()
         {
             dynamic context = null;
             context.Request.Form["IntProperty_00"] = "1";
